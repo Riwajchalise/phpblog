@@ -36,7 +36,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Regarding PHP document
 
 feedback_email: wazzree@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar

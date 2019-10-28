@@ -15,7 +15,7 @@ My name is Riwaj Chlaise. I am a developer, programming instrustor, bogger, and 
 
 I use this documentation as a teaching material for basic php class. You can feel free to use this material as your learning guide. 
 
-If you have any queries, criticsm or feedbacks I would love to know them, you can find my email address on the top navigation bar of this website.
+If you have any queries, constructive criticsms or feedbacks I would love to know them, you can find my email address on the top navigation bar of this website.
 
 Thanks,
 
