@@ -1,22 +1,25 @@
 ---
-title: About the theme's author
+title: About the author
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
 tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+summary: "This document can be used by instructors as a medium to teach php and students can use this a means to study php."
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+Hi,
 
-I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
+My name is Riwaj Chlaise. I am a developer, programming instrustor, bogger, and philosophical enthusiast. See my [resume](https://resume.riwajchalise.com.np/) to know more about me.
 
-I think this theme does pretty much everything that you can do with something like OxygenXML, but without the constraints of structured authoring. Everything is completely open and changeable, so if you start tinkering around with the theme's files, you can break things. But it's completely empowering as well!
+I use this documentation as a teaching material for basic php class. You can feel free to use this material as your learning guide. 
 
-With a completely open architecture and code base, you can modify the code to make it do exactly what you want, without having to jump through all kinds of confusing or proprietary code.
+If you have any queries, criticsm or feedbacks I would love to know them, you can find my email address on the top navigation bar of this website.
 
-If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
+Thanks,
+
+Riwaj
+
 
 {% include links.html %}

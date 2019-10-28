@@ -7,21 +7,27 @@ folder: mydoc
 
 ## Overview
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+This site provides documentation, training, and other notes for the php programming language. The documentation is designed for people who have no prior knowledge about php. 
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
 
-## Survey of features
+## What is PHP?
+* php stands for Hypertext Preprocessor. 
+* PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+* PHP is a widely-used, free, and efficient alternative to 
 
-Some of the more prominent features of this theme include the following:
+## What you should know?
+Before you get started you should have basic knowledge about following topic:-
+* HTML
+* CSS
+* JS
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+## What is a PHP file ?
+PHP files have extension ".php". The code runs on the server and the result is returned to the browser as plain HTML.
+
+A PHP file can contain HTML, CSS, JavaScript and PHP code.
+
+{% include callout.html content="**Important information**: PHP is the core of wordpress, the biggest blogging platform. It is also used by facebook, the largest social media site. More than anything it is very easy to learn." type="primary" %}
+
 
 ## Getting started
 

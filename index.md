@@ -20,7 +20,7 @@ XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (
 You can download xampp [here](https://www.apachefriends.org/index.html) 
 
 
-### 2. Download and install a code editor
+### 2. Download and Install a code editor
 
 You can have one of these editors to write/edit your code:-
 
@@ -37,9 +37,12 @@ You can also use other tools as per your prefrence.
 ### 1. Github account
 [GitHub](https://github.com/) is a web-based hosting service for software development projects that use the Git revision control system.
 
-For beginners it can be a save place to store your code. Learning about version control system in the early phase can help you later phase of coding and developement.
+For beginners it can be a best place to store your code. Learning about version control system in the earlier phase of programming can give you a head-start later phase of coding and developement.
 
 ### 2. Gitbash for windows
 [Git-Bash](https://git-scm.com/downloads) is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is a popular default shell on Linux and macOS.
+
+{% include note.html content="You don't have to download git bash if you use Mac or Linux as your main operating system." %}
+
 
 {% include links.html %}
