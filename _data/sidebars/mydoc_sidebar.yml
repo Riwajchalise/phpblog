@@ -45,4 +45,102 @@ entries:
       url: /mydoc_introduction_to_HTML.html
       output: web, pdf
 
-    
+    - title: Intro to CSS
+      url: /mydoc_introduction_to_CSS.html
+      output: web, pdf
+
+    - title: HTML Table
+      url: /mydoc_table.html
+      output: web, pdf      
+ 
+    - title: HTML Forms
+      url: /mydoc_forms.html
+      output: web, pdf      
+
+
+
+  - title: PHP Intro
+    output: web, pdf
+    folderitems:
+
+    - title: echo
+      url: /mydoc_echo.html
+      output: web, pdf
+
+    - title: Comments
+      url: /mydoc_comments.html
+      output: web, pdf
+
+    - title: Data Types
+      url: /mydoc_datatypes.html
+      output: web, pdf      
+ 
+    - title: Operators
+      url: /mydoc_operators.html
+      output: web, pdf 
+          
+    - title: Questions
+      url: /mydoc_intro_questions.html
+      output: web, pdf
+
+
+  - title: PHP Programming Concepts
+    output: web, pdf
+    folderitems:
+
+    - title: Conditional Statements
+      url: /mydoc_conditional.html
+      output: web, pdf
+      
+    - title: Switch
+      url: /mydoc_switch.html
+      output: web, pdf
+
+    - title: For loop
+      url: /mydoc_for_loop.html
+      output: web, pdf      
+ 
+    - title: While loop
+      url: /mydoc_while_loop.html
+      output: web, pdf 
+          
+    - title: Do...While
+      url: /mydoc_do_while.html
+      output: web, pdf
+      
+    - title: Array
+      url: /mydoc_array.html
+      output: web, pdf
+
+    - title: Function
+      url: /mydoc_functions.html
+      output: web, pdf 
+      
+    - title: Questions
+      url: /mydoc_php_questions.html
+      output: web, pdf 
+      
+      
+  - title: Database
+    output: web, pdf
+    folderitems:
+
+    - title: Database Intro
+      url: /mydoc_database_intro.html
+      output: web, pdf
+
+    - title: Database Query
+      url: /mydoc_database_Query.html
+      output: web, pdf
+
+    - title: Questions
+      url: /mydoc_database_questions.html
+      output: web, pdf
+
+  - title: CRUD in php
+    output: web, pdf
+    folderitems:
+
+    - title: CRUD Intro
+      url: /mydoc_crud_intro.html
+      output: web, pdf
