@@ -8,7 +8,7 @@ sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
 ---
-
+<!-- 
 Hi,
 
 My name is Riwaj Chlaise. I am a student, developer, programming instrustor, bogger, and philosophical enthusiast. See my [resume](https://resume.riwajchalise.com.np/) to know more about me.
@@ -22,4 +22,4 @@ Thanks,
 Riwaj
 
 
-{% include links.html %}
+{% include links.html %} -->
