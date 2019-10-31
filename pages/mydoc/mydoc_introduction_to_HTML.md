@@ -1,6 +1,6 @@
 ---
 title: Introdution to HTML  
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: documentation PHP, HTML, Introduction to HTML, HTML tutorial
 last_updated: July 3, 2016
 tags: 
 summary: "HTML one of the major prerequisite you need to have in order to understand php."

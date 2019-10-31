@@ -11,7 +11,7 @@ folder: mydoc
 
 Hi,
 
-My name is Riwaj Chlaise. I am a developer, programming instrustor, bogger, and philosophical enthusiast. See my [resume](https://resume.riwajchalise.com.np/) to know more about me.
+My name is Riwaj Chlaise. I am a student, developer, programming instrustor, bogger, and philosophical enthusiast. See my [resume](https://resume.riwajchalise.com.np/) to know more about me.
 
 I use this documentation as a teaching material for basic php class. You can feel free to use this material as your learning guide. 
 
