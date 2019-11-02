@@ -42,9 +42,12 @@ Here is what a simple HTML table looks like:-
 [DEMO](https://codepen.io/riwajchalise/pen/oNNpjay)
 
 However, we can add css properties to enhance the design of the table
+
+#### Example of a styled table.
+
 {% highlight html %}
 <head>
-<style>
+ <style>
 table, th, td {
   border: 1px solid black;
 }
@@ -71,3 +74,4 @@ table, th, td {
 {% endhighlight %}
 
 [DEMO](https://codepen.io/riwajchalise/pen/qBBpbaJ)
+
