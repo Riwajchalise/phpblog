@@ -10,10 +10,10 @@ folder: mydoc
 datatable: true
 ---
 
-A HTML table is defined by ```<table>``` tag.
-The head is defined by ```<th>``` tag.
-The row is defined by ```<tr>``` tag.
-The data is defined with ```<td>``` tag.
+* A HTML table is defined by ```<table>``` tag.
+* The head is defined by ```<th>``` tag.
+* The row is defined by ```<tr>``` tag.
+* The data is defined with ```<td>``` tag.
 
 Here is what a simple HTML table looks like:-
 
