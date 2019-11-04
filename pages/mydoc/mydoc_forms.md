@@ -79,7 +79,60 @@ The ```<fieldset>``` is used to group related date in a form and the ```<legend>
 
 [DEMO](https://codepen.io/riwajchalise/pen/vYYpwoZ)
 
+## Designed Forms in CSS
+
 You can use various CSS properties to design a form.
+
+### Examples of CSS Designed Form
+
+{% highlight html %}
+
+<style>
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: red;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+</style>
+
+
+<h3>Using CSS to style an HTML Form</h3>
+
+<form action="">
+  <fieldset>
+    <legend>Fill the Form:</legend>
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname"><br>
+  email:<br>
+  <input type="email" name="email"><br>
+  password:<br>
+  <input type="password" name="password"><br>
+  <input type="submit" value="Submit">
+</form>
+  </fieldset>
+</form>
+{% endhighlight %}
+
+[DEMO](https://codepen.io/riwajchalise/pen/xxxYPZZ)
 
 
 
