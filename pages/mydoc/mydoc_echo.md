@@ -9,7 +9,7 @@ folder: mydoc
 datatable: true
 ---
 
-echo is a php function that can be used to print one or many string in.
+echo is a php function that can be used to print one or many string.
 
 ## Syntax of echo
 

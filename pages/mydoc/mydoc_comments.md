@@ -1,5 +1,5 @@
 ---
-title: echo
+title: Comments
 keywords: echo, php print
 last_updated: October 31, 2019
 summary: "This post will help you understand how to comment your codes in php."
