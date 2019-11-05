@@ -52,10 +52,6 @@ entries:
     - title: HTML Table
       url: /mydoc_table.html
       output: web, pdf
-      
-    - title: echo
-      url: /mydoc_echo.html
-      output: web, pdf
  
     - title: HTML Forms
       url: /mydoc_forms.html
@@ -66,6 +62,10 @@ entries:
   - title: PHP Intro
     output: web, pdf
     folderitems:
+
+    - title: Print(echo)
+      url: /mydoc_echo.html
+      output: web, pdf
 
     - title: Comments
       url: /mydoc_comments.html
