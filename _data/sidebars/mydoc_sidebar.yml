@@ -64,7 +64,7 @@ entries:
     folderitems:
 
     - title: echo
-      url: /mydoc_echo.html
+      url: /mydoc_ech.html
       output: web, pdf
 
     - title: Comments
