@@ -34,7 +34,7 @@ Some common types of input elements.
 3. **checkbox** :- Used to select Multiple choice.
 4. **submit** :- Used to define submitt button for the forms data.
 5. **password** :- Used to define password field.
-6. **date**:- used to define date field
+6. **date**:- used to define date field.
 
 ### Example of Simple form
 
