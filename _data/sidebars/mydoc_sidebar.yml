@@ -70,6 +70,10 @@ entries:
     - title: Comments
       url: /mydoc_comments.html
       output: web, pdf
+    
+    - title: Variables
+      url: /mydoc_variables.html
+      output: web, pdf
 
     - title: Data Types
       url: /mydoc_datatypes.html
