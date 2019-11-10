@@ -36,6 +36,8 @@ Inline styles are defined within the "style" attribute of the relevant element:
 </html>
 {% endhighlight %}
 
+[DEMO](https://codepen.io/riwajchalise/pen/QWWBjYm)
+
 ### 2. Internal CSS
 The internal style is defined inside the ```<style>``` element, inside the head section.
 
