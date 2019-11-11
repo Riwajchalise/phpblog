@@ -66,6 +66,8 @@ h1 {
 </html>
 {% endhighlight %}
 
+[DEMO](https://codepen.io/riwajchalise/pen/QWWBjPr)
+
 ### 3. External CSS
 External styles are defined within the  ```<link>``` element, inside the ```<head>``` section of an HTML page:
 
@@ -97,6 +99,8 @@ h1 {
   margin-left: 20px;
 }
 {% endhighlight %}
+
+[DEMO](https://codepen.io/riwajchalise/pen/ZEEjQEP)
 
 {% include important.html content="A CSS file should not contain html tags" %}
 
