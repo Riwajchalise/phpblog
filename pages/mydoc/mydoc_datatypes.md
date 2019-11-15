@@ -11,7 +11,7 @@ datatable: true
 
 Variables store different datatypes like string, intiger, float, boolean, array.
 
-# 1. String
+## String
 A string is a group of characters put together, like "deer walk":
 
 A string is always assigned inside a duble or a single quote:-
@@ -26,7 +26,7 @@ echo $name;
 
 [DEMO](https://paiza.io/projects/MWiwU8AQXBix93fbkQQ08w?language=php)
 
-# 2. Integer
+## Integer
 Integer is a datatype with non-decimal numbers. A integer can be either Positive or negetive. Arthmatic opreations can be performed on intigers. 
 
 {% highlight php %}
