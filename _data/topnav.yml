@@ -7,6 +7,9 @@ topnav:
       external_url: https://github.com/Riwajchalise/phpclass
     - title: News
       url: /news
+    - title: documentation-PDF
+      url: pdf/mydoc.pdf
+      
 
 #Topnav dropdowns
 topnav_dropdowns:
