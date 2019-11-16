@@ -8,7 +8,7 @@ topnav:
     - title: News
       url: /news
     - title: documentation-PDF
-      url: pdf/mydoc.pdf
+      external_url: https://php.riwajchalise.com.np/pdf/mydoc.pdf
       
 
 #Topnav dropdowns
