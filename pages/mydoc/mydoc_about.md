@@ -19,7 +19,6 @@ If you have any queries, constructive criticsms or feedbacks I would love to kno
 
 Thanks,
 
-Riwaj
-
+Riwaj Chalise
 
 {% include links.html %} -->

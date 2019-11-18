@@ -11,6 +11,8 @@ datatable: true
 
 Variables store different datatypes like string, intiger, float, boolean, array.
 
+{% include note.html content="var_dump() is a function that returns datatype and value." %} 
+
 ## String
 A string is a group of characters put together, like "deer walk":
 
@@ -19,8 +21,7 @@ A string is always assigned inside a duble or a single quote:-
 {% highlight php %}
 <?php
 $name = "Class of 2022";
-
-echo $name;
+var_dump($name)
 ?>
 {% endhighlight %}
 
@@ -33,8 +34,19 @@ Integer is a datatype with non-decimal numbers. A integer can be either Positive
 <?php
 $x = 5985;
 $y = 2722;
-
-echo $x + $y;
+$z = $x + $y;
+var_dump($z);
 ?>
 {% endhighlight %}
 [DEMO](https://paiza.io/projects/qWSHhGQiwCeiHeN0-9wGRg?language=php)
+
+## Float
+A float is a number with decimal or exponential value.
+
+{% highlight php %}
+<?php 
+$x = 12.124;
+var_dump($x);
+?>
+{% endhighlight %}
+[DEMO](https://paiza.io/projects/gLH7Eys3k8nxEccLOZbKeQ)

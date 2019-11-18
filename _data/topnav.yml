@@ -5,11 +5,11 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/Riwajchalise/phpclass
-    - title: News
-      url: /news
-    - title: documentation-PDF
+    # - title: News
+    #   url: /news
+    - title: Download-PDF
       external_url: https://php.riwajchalise.com.np/pdf/mydoc.pdf
-      
+
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -18,7 +18,7 @@ topnav_dropdowns:
     - title: php Help
       folderitems:
         - title: Php documentation
-          external_url: 
+          external_url:
         - title: Php on Stack Overflow
           external_url: http://stackoverflow.com/questions/tagged/php
 
