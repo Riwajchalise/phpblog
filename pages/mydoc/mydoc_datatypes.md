@@ -50,3 +50,17 @@ var_dump($x);
 ?>
 {% endhighlight %}
 [DEMO](https://paiza.io/projects/gLH7Eys3k8nxEccLOZbKeQ)
+
+
+## Boolean
+Boolean is used in conditional testing to test if the statement is True or False.
+
+{% highlight php %}
+<?php
+$true = true;
+$false = false;
+
+var_dump($a);
+var_dump($b);
+{% endhighlight %}
+
