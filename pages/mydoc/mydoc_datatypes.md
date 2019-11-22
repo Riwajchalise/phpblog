@@ -60,7 +60,29 @@ Boolean is used in conditional testing to test if the statement is True or False
 $true = true;
 $false = false;
 
-var_dump($a);
-var_dump($b);
+var_dump($true);
+var_dump($false);
+?>
 {% endhighlight %}
+
+[Demo](https://paiza.io/projects/LswtpZoNv3qHnfKuY6qHdw)
+
+
+## Array
+Array is used to store multiple valued in a single variable.
+
+{% highlight php %}
+<?php 
+$company = array("google","facebook","twitter");
+var_dump($company);
+var_dump($company[0]);
+var_dump($company[1]);
+var_dump($company[2]);
+?>
+{% endhighlight %}
+
+[DEMO](https://paiza.io/projects/ck82yEhlbQ08KHU-IGa9xA?language=php)
+
+There are more datatypes. For more information on datatypes check out [w3school](https://www.w3schools.com/php/php_datatypes.asp).
+
 
