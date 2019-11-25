@@ -55,7 +55,11 @@ entries:
  
     - title: HTML Forms
       url: /mydoc_forms.html
-      output: web, pdf      
+      output: web, pdf   
+      
+    - title: Questions
+      url: /design_questions.html
+      output: web, pdf   
 
 
 
