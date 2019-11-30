@@ -1,7 +1,7 @@
 ---
 title: HTML and CSS practice questions
-keywords: duummy.Dummy, Dummy text
-last_updated: 
+keywords: question,HTML_questions
+last_updated: November 11, 2019
 tags: 
 summary: "Here you can find questions regarding  HTML and CSS."
 sidebar: mydoc_sidebar
