@@ -9,7 +9,7 @@ permalink: mydoc_operators.html
 folder: mydoc
 ---
 
-Operators are used to perform operatons. The types of operators in php are:
+Operators are used to perform operations. The types of operators in php are:
 * Arithmetic Operators
 * Assignment Operators
 * Comparison Operators
@@ -43,17 +43,18 @@ Php assignment operators are used with numerical value to write a value to a var
 The multiplication, division and modulus will go on in the same way.
 
 ## Comparision Operators
+The comparision operator is used to compare two valves.
 
 | Operator | Discription | Demo|
 |-------|--------|---------|
-| == | True if two variables are equal | [DEMO]() |
-| === | True if two variables are identical i.e. both value and datatype | [DEMO]() |
-| != | True if two variables are not equal | [DEMO]() |
-| <> | True if are not equal | [DEMO]() |
-| !== | True if two variables are not identical | [DEMO]() |
-| > | Greater than | [DEMO]() |
-| < | Less than | [DEMO]() |
-| >= | Greater or equal to | [DEMO]() |
-| <= | Less than or equal to | [DEMO]() |
+| == | True if two variables are equal | [DEMO](https://paiza.io/projects/iw2ran9WzeFr30RSCJr5vQ?language=php) |
+| === | True if two variables are identical i.e. both value and datatype | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| != | True if two variables are not equal | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| <> | True if are not equal | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| !== | True if two variables are not identical | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| > | Greater than | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| < | Less than | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| >= | Greater or equal to | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
+| <= | Less than or equal to | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
 
 Please refere [W3school](https://www.w3schools.com/php/php_operators.asp) for further information on PHP operators

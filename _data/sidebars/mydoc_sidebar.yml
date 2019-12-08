@@ -86,10 +86,6 @@ entries:
     - title: Operators
       url: /mydoc_operators.html
       output: web, pdf 
-          
-    - title: Questions
-      url: /mydoc_intro_questions.html
-      output: web, pdf
 
 
   - title: PHP Programming Concepts
