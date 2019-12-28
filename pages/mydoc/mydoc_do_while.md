@@ -32,6 +32,10 @@ do {
 {% endhighlight %}
 [DEMO](https://paiza.io/projects/C-4LsnmPaq2jqp7iGrZ1dA?language=php)
 
+### Difference between While and DO...While loop.
 
-
-
+| While | Do...While |
+|-------|--------|
+| In 'while' loop the controlling condition appears at the start of the loop. | In 'do-while' loop the controlling condition appears at the end of the loop. |
+| The iterations do not occur if, the condition at the first iteration, appears false.	 | The iteration occurs at least once even if the condition is false at the first iteration.| 
+| Semicolon is not used. | Semicolon is used at the end of the loop.|

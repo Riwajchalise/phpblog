@@ -20,7 +20,7 @@ while (true) {
 }
 ```
 ### Example1
-A program to print number from 1 to 10
+A program to print number from 1 to 10 using while loop.
 
 {% highlight php %}
 <?php 
@@ -31,5 +31,5 @@ while($x <= 10) {
 } 
 ?>
 {% endhighlight %}
-[DEMO]()
+[DEMO](https://paiza.io/projects/kltRW21DlISrzWSW4y75nQ)
 
