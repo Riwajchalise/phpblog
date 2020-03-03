@@ -10,10 +10,10 @@ folder: mydoc
 ---
 
 ## Question 1
-Make a simple HTML page. The page must contain your picture information about your hobbies and education. Use External CSS to style your page.[Example]()
+Make a simple HTML page. The page must contain your picture information about your hobbies and education. Use External CSS to style your page.
 
 ## Question 2
-Make a HTML table with 5 entities(columns) and 6 records(rows). Use external CSS to style the table.[Example]()  
+Make a HTML table with 5 entities(columns) and 6 records(rows). Use external CSS to style the table.
 
 ## Question 3
-Make a HTML form to that takes input as following entities Name(text), Email(email), Phone-number(tel), Gender(radio), Message(textarea), Submit Button(submit). Use appropriate input types. Also, use External CSS to style your page  [Example]()
+Make a HTML form to that takes input as following entities Name(text), Email(email), Phone-number(tel), Gender(radio), Message(textarea), Submit Button(submit). Use appropriate input types. Also, use External CSS to style your page.

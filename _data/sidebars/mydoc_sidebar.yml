@@ -137,13 +137,14 @@ entries:
       url: /mydoc_database_Query.html
       output: web, pdf
 
-    - title: Questions
-      url: /mydoc_database_questions.html
-      output: web, pdf
 
   - title: CRUD in php
     output: web, pdf
     folderitems:
+
+    - title: Database Connection
+      url: /mydoc_db_connection.html
+      output: web, pdf
 
     - title: CRUD Intro
       url: /mydoc_crud_intro.html

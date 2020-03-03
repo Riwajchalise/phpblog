@@ -12,7 +12,7 @@ folder: mydoc
 A database query is a request for data from a database. The request is to retrive and manipulate data from the database.
 
 ## Select
-Select statement is used to select data from database. The returned is stored in database.
+Select statement is used to select data from database. It returns the stored data from the database.
 
 ### Syntax
 ```
