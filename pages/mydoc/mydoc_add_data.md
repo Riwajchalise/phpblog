@@ -13,6 +13,10 @@ folder: mydoc
 
 Database connection is very important while playing with any of the CRUD operation. Name the Database file `config.php`.
 
+Download and import the database.
+
+<a target="\_blank" class="noCrossRef" href="test.sql"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>Download Database</button></a>
+
 ### config.php
 
 {% highlight php %}
@@ -88,54 +92,28 @@ This file handles the data entered by the users.
 
 {% highlight php %}
 
-<html>
-<head>
-	<title>Add Data</title>
-</head>
-
-<body>
 <?php
 //including the database connection file
 include_once("config.php");
 
-if(isset($_POST['Submit'])) {	
-	$name = mysqli_real_escape_string($mysqli, $\_POST['name']);
-$age = mysqli_real_escape_string($mysqli, $_POST['age']);
-	$message = mysqli_real_escape_string($mysqli, $\_POST['message']);
-// checking empty fields
-if(empty($name) || empty($age) || empty($message)) {
-				
-		if(empty($name)) {
-echo "<font color='red'>Name field is empty.</font><br/>";
-}
-if(empty($age)) {
-			echo "<font color='red'>Age field is empty.</font><br/>";
-		}
-		
-		if(empty($message)) {
-echo "<font color='red'>Email field is empty.</font><br/>";
-}
-//link to the previous page
-echo "<br/><a href='javascript:self.history.back();'>Go Back</a>";
-} else {
-// if all the fields are filled (not empty)
-//insert data to database
-$result = mysqli_query($mysqli, "INSERT INTO users(name,age,message) VALUES('$name','$age','\$message')");
-//display success message
-echo "<font color='green'>Data added successfully.";
-echo "<br/><a href='index.php'>View Result</a>";
-}
+if (isset($_POST['Submit'])) {
+	$name = mysqli_real_escape_string($mysqli, $_POST['name']);
+	$age = mysqli_real_escape_string($mysqli, $_POST['age']);
+	$message = mysqli_real_escape_string($mysqli, $_POST['message']);
+
+
+
+	$result = mysqli_query($mysqli, "INSERT INTO users(name,age,message) VALUES('$name','$age','$message')");
+
+	//display success message
+	echo "<font color='green'>Data added successfully.";
+	echo "<br/><a href='index.php'>View Result</a>";
 }
 ?>
-
-</body>
-</html>
-
 {% endhighlight %}
 
 In the above code:
 
 - First the data from the foms are captured.
-- Then the code checks for empty fields.
 - If the fields are not empty the data are inserted in database.
-- Then display Screen is shown.
+- Then display screen is shown.
