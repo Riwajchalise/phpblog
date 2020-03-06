@@ -149,3 +149,24 @@ entries:
     - title: CRUD Intro
       url: /mydoc_crud_intro.html
       output: web, pdf
+
+    - title: HTTP Methods(GET and POST)
+      url: /mydoc_get_and_post.html
+      output: web, pdf
+
+    - title: Add Data Using Form
+      url: /mydoc_add.html
+      output: web, pdf
+
+    - title: Retrive Data on table
+      url: /mydoc_select.html
+      output: web, pdf
+
+    - title: Delete
+      url: /mydoc_delete.html
+      output: web, pdf
+
+    - title: Update
+      url: /mydoc_update.html
+      output: web, pdf
+
