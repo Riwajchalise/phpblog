@@ -155,7 +155,7 @@ entries:
       output: web, pdf
 
     - title: Add Data Using Form
-      url: /mydoc_add.html
+      url: /mydoc_add_data.html
       output: web, pdf
 
     - title: Retrive Data on table
