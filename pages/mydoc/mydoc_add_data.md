@@ -110,6 +110,7 @@ if (isset($_POST['Submit'])) {
 	echo "<br/><a href='index.php'>View Result</a>";
 }
 ?>
+
 {% endhighlight %}
 
 In the above code:
