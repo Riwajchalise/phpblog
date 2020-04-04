@@ -115,10 +115,6 @@ entries:
     - title: Array
       url: /mydoc_array.html
       output: web, pdf
-
-    - title: Function
-      url: /mydoc_functions.html
-      output: web, pdf 
       
     - title: Questions
       url: /mydoc_php_questions.html

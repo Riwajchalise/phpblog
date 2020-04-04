@@ -74,7 +74,4 @@ echo $a + $b;
 
 [DEMO](https://paiza.io/projects/Aydehq0VGnCqfY-s5DYwrQ?language=php)
 
-{% include callout.html content=" ```strict ``` and ```non-strict``` requirments will be discussed later in the documentation." %}
-
-{% include callout.html content=" Global and Local variables will also be discussed later in the documentation." %}
 

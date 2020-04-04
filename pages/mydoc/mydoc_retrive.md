@@ -3,7 +3,7 @@ title: Retrive Data From the Database
 keywords: retrive, CRUD
 last_updated: Mar 7, 2019
 tags:
-summary: "This post discusses about the retrival of data from the database."
+summary: "In the last post we inserted data in the database. This post discusses about the retrival of data from the database."
 sidebar: mydoc_sidebar
 permalink: mydoc_select.html
 folder: mydoc
@@ -41,12 +41,13 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
     	<td>Delete</td>
     </tr>
     <?php
+	//Using while loop to pick each row until last row
     while($res = mysqli_fetch_array($result)) {
     	echo "<tr>";
     	echo "<td>".$res['name']."</td>";
     	echo "<td>".$res['age']."</td>";
     	echo "<td>".$res['message']."</td>";
-    	echo "<td><a href=\"delete.php?id=$res[id]\" onClick=\"return confirm('Are you sure you want to delete?')\">Delete</a></td>";
+    	echo "<td><a href=\"edit.php?id=$res[id]\">Edit</a> | <a href=\"delete.php?id=$res[id]\" onClick=\"return confirm('Are you sure you want to delete?')\">Delete</a></td>";
     }
     ?>
     </table>
