@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Intro  To Database
 keywords: Database, datbase_intro
 last_updated: November 9, 2019
@@ -24,4 +24,4 @@ SQL stands for Structured Query Language. A query language is a kind of programm
 
 
 
-
+ -->

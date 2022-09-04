@@ -1,4 +1,4 @@
----
+<!-- ---
 title: For Loop
 keywords: for_loop, for, php
 last_updated: December 10, 2019
@@ -55,4 +55,4 @@ for ($x = 1; $x <= 10; $x++) {
 ```
 {% endhighlight %}
 
-[DEMO](https://paiza.io/projects/vLcbaWhMJjvp5-Ihi8Lc7g?language=php)
+[DEMO](https://paiza.io/projects/vLcbaWhMJjvp5-Ihi8Lc7g?language=php) -->

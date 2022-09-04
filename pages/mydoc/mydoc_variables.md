@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Variables
 keywords: variables,php variables
 last_updated: November 7, 2019
@@ -74,4 +74,4 @@ echo $a + $b;
 
 [DEMO](https://paiza.io/projects/Aydehq0VGnCqfY-s5DYwrQ?language=php)
 
-
+ -->

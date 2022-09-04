@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Comments
 keywords: comments, comment
 last_updated: November 6, 2019
@@ -42,4 +42,4 @@ more than one line.
 */
 ?>
 {% endhighlight %}
-[DEMO](https://paiza.io/projects/1DjZzJCLYzfdPtGZgT2NLg?language=php)
+[DEMO](https://paiza.io/projects/1DjZzJCLYzfdPtGZgT2NLg?language=php) -->

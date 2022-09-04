@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Switch
 keywords: Switch, switch_case
 last_updated: 
@@ -60,4 +60,4 @@ switch ($num) {
 {% endhighlight %}
 
 [DEMO](https://paiza.io/projects/RO78jWHYU6hW-nwZTsbegg?language=php)
-
+ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Data Types
 keywords: datatypes, datatype
 last_updated: March 29, 2020
@@ -34,4 +34,4 @@ In above code:-
 - We first include the database file.
 - Get the id of row to be deleted.
 - Apply the delete query to delete the data.
-- redirect to index.php
+- redirect to index.php -->

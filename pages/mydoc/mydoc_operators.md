@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Operators in PHP
 keywords: duummy.Dummy, Dummy text
 last_updated: 
@@ -57,4 +57,4 @@ The comparision operator is used to compare two valves.
 | >= | Greater or equal to | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
 | <= | Less than or equal to | [DEMO](https://paiza.io/projects/cKSXX4rYyMXNzgqX-dC8Fg?language=php) |
 
-Please refere [W3school](https://www.w3schools.com/php/php_operators.asp) for further information on PHP operators
+Please refere [W3school](https://www.w3schools.com/php/php_operators.asp) for further information on PHP operators -->

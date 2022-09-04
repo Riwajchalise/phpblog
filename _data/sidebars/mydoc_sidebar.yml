@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Basics of PHP
+  product: Introduction to  Web Development and Database System
   version: 1.0
   folders:
 
@@ -14,7 +14,7 @@ entries:
       url: /titlepage.html
       output: pdf
       type: frontmatter
-    - title:
+    - title: pdf
       url: /tocpage.html
       output: pdf
       type: frontmatter
@@ -23,20 +23,73 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Getting started with Php
+    - title: Overview
       url: /index.html
+      output: web, pdf
+
+    - title: Course Introduction and Prerequisist
+      url: /mydoc_introduction.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+  - title: Web Theory
+    output: web, pdf
+    folderitems:
+
+    - title: Client Server Architecture
+      url: /mydoc_client_server.html
       output: web, pdf
+      type: homepage 
 
-    - title: About the author
-      url: /mydoc_about.html
+    - title: Scripting Language
+      url: mydoc_client_server.html
       output: web, pdf
+      type: homepage 
+
+    - title: Web Protocols
+      url: html
+      output: web
+      type: homepage
+
+    - title: HTTP and HTTPS
+      url: html
+      output: web 
+      type: homepage
+
+    - title: Structure of URL
+      url: html
+      output: web, 
+      type: homepage     
 
 
+  - title: Database Theory
+    output: web, 
+    folderitems:
+
+    - title: Intro to Database
+      url: html
+      output: web, 
+
+    - title: File system vs Database
+      url: html
+      output: web, 
+
+    - title: Database Normalization
+      url: html
+      output: web, 
+
+    - title: Entity Relationship diagram
+      url: html
+      output: web, 
+ 
+    - title: Centeralize, Distributed and Cloudbase Database
+      url: html
+      output: web,    
+      
+    - title: Questions
+      url: /design_questions.html
+      output: web,    
+      
   - title: Markup and Design
     output: web, pdf
     folderitems:
@@ -45,124 +98,205 @@ entries:
       url: /mydoc_introduction_to_HTML.html
       output: web, pdf
 
-    - title: Intro to CSS
-      url: /mydoc_introduction_to_CSS.html
+    - title: HTML elements
+      url: /mydoc_introduction_to_HTML.html
+      output: web, pdf
+
+    - title: HTML attributes
+      url: /mydoc_introduction_to_HTML.html
+      output: web, pdf
+
+    - title: Heading
+      url: /mydoc_introduction_to_HTML.html
+      output: web, pdf
+
+    - title: Paragraph
+      url: /mydoc_introduction_to_HTML.html
       output: web, pdf
 
     - title: HTML Table
       url: /mydoc_table.html
-      output: web, pdf
+      output: web, 
  
     - title: HTML Forms
       url: /mydoc_forms.html
-      output: web, pdf   
+      output: web,   
+
+    - title: Style
+      url: /mydoc_introduction_to_HTML.html
+      output: web, 
+
+    - title: Intro to CSS
+      url: /mydoc_introduction_to_CSS.html
+      output: web, 
+
+    - title: CSS syntax
+      url: /mydoc_introduction_to_CSS.html
+      output: web, 
+
+    - title: CSS boarder
+      url: /mydoc_introduction_to_CSS.html
+      output: web, 
+
+    - title: CSS Margin
+      url: /mydoc_introduction_to_CSS.html
+      output: web, 
+
+    - title: CSS padding
+      url: /mydoc_introduction_to_CSS.html
+      output: web, 
+
+    - title: HTML Table
+      url: /mydoc_table.html
+      output: web, 
+ 
+    - title: HTML Forms
+      url: /mydoc_forms.html
+      output: web,    
       
     - title: Questions
       url: /design_questions.html
-      output: web, pdf   
+      output: web,    
+
+  - title: Version Control
+    output: web, 
+    folderitems:
+
+    - title: git operations
+      url: html
+      output: web, 
+
+    - title: github pages
+      url: html
+      output: web, 
+
+
 
 
 
   - title: PHP Intro
-    output: web, pdf
+    output: web, 
     folderitems:
 
     - title: Print(echo)
       url: /mydoc_echo.html
-      output: web, pdf
+      output: web, 
 
     - title: Comments
       url: /mydoc_comments.html
-      output: web, pdf
+      output: web, 
     
     - title: Variables
       url: /mydoc_variables.html
-      output: web, pdf
+      output: web, 
 
     - title: Data Types
       url: /mydoc_datatypes.html
-      output: web, pdf      
+      output: web,       
  
     - title: Operators
       url: /mydoc_operators.html
-      output: web, pdf 
+      output: web,  
 
 
   - title: PHP Programming Concepts
-    output: web, pdf
+    output: web, 
     folderitems:
 
     - title: Conditional Statements
       url: /mydoc_conditional.html
-      output: web, pdf
+      output: web, 
       
     - title: Switch
       url: /mydoc_switch.html
-      output: web, pdf
+      output: web, 
 
     - title: For loop
       url: /mydoc_for_loop.html
-      output: web, pdf      
+      output: web,       
  
     - title: While loop
       url: /mydoc_while_loop.html
-      output: web, pdf 
+      output: web,  
           
     - title: Do...While
       url: /mydoc_do_while.html
-      output: web, pdf
+      output: web, 
       
     - title: Array
       url: /mydoc_array.html
-      output: web, pdf
+      output: web, 
       
     - title: Questions
       url: /mydoc_php_questions.html
-      output: web, pdf 
+      output: web,  
       
       
-  - title: Database
-    output: web, pdf
+  - title: Database Practice
+    output: web, 
     folderitems:
 
-    - title: Database Intro
-      url: /mydoc_database_intro.html
-      output: web, pdf
+    - title: MY SQL Queries
+      url: html
+      output: web, 
+    
+    - title: Database Query with types
+      url: html
+      output: web, 
 
-    - title: Database Query
-      url: /mydoc_database_Query.html
-      output: web, pdf
+    - title: Designing Database
+      url: html
+      output: web, 
 
 
   - title: CRUD in php
-    output: web, pdf
+    output: web, 
     folderitems:
 
     - title: Database Connection
       url: /mydoc_db_connection.html
-      output: web, pdf
+      output: web, 
 
     - title: CRUD Intro
       url: /mydoc_crud_intro.html
-      output: web, pdf
+      output: web, 
 
     - title: HTTP Methods(GET and POST)
       url: /mydoc_get_and_post.html
-      output: web, pdf
+      output: web, 
 
-    - title: Add Data Using Form
+    - title: Create
       url: /mydoc_add_data.html
-      output: web, pdf
+      output: web, 
 
-    - title: Retrive Data on table
+    - title: Retrive
       url: /mydoc_select.html
-      output: web, pdf
-
-    - title: Delete
-      url: /mydoc_delete.html
-      output: web, pdf
+      output: web, 
 
     - title: Update
       url: /mydoc_update.html
-      output: web, pdf
+      output: web, 
+
+    - title: Delete
+      url: /mydoc_delete.html
+      output: web, 
+
+    - title: User Session management
+      url: html
+      output: web, 
+
+  - title: Project
+    output: web, 
+    folderitems:
+
+    - title: Develop WEB Application
+      url: html
+      output: web, 
+
+    - title: Report on creation of simple database
+      url: html
+      output: web, 
+      
+
+
 

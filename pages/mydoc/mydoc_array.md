@@ -1,4 +1,4 @@
----
+<!-- ---
 title: DUMMY
 keywords: duummy.Dummy, Dummy text
 last_updated: 
@@ -117,4 +117,4 @@ echo $bikes[3][0].": In stock: ".$bikes[3][1].", sold: ".$bikes[3][2].".<br>";
 {% endhighlight %}
 
 [DEMO](https://paiza.io/projects/rii0w9BTG-THt-fz8WUd7A?language=php)
-
+ -->

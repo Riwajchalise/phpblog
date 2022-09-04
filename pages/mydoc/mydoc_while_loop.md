@@ -1,4 +1,4 @@
----
+<!-- ---
 title: While Loop
 keywords: while_loop, while,
 last_updated: December 15, 2019
@@ -32,4 +32,4 @@ while($x <= 10) {
 ?>
 {% endhighlight %}
 [DEMO](https://paiza.io/projects/kltRW21DlISrzWSW4y75nQ)
-
+ -->

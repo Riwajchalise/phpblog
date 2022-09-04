@@ -3,13 +3,13 @@ repository: Riwajchalise/phpblog
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: PHP Documentation
+topnav_title: HOME
 # this appears on the top navigation bar next to the home button
 
-site_title: PHP Documentation
+site_title: WEB and Database
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Charls
+company_name: Introduction to Web Development and Database system
 # this appears in the footer
 
 github_editme_path: Riwajchalise/phpblog
@@ -108,7 +108,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a basic documentation for PHP."
+description: "Course content for Introduction to Web and Database System."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

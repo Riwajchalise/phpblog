@@ -1,4 +1,4 @@
----
+<!-- ---
 title: HTML tables 
 keywords: HTML tables, tables in html, table design, HTML
 last_updated: October 31, 2019
@@ -74,4 +74,4 @@ table, th, td {
 {% endhighlight %}
 
 [DEMO](https://codepen.io/riwajchalise/pen/qBBpbaJ)
-
+ -->

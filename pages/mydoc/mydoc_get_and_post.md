@@ -1,4 +1,4 @@
----
+<!-- ---
 title: HTTP Method (GET and POST)
 keywords: GET, POST
 last_updated: March 3, 2020
@@ -33,4 +33,4 @@ name=Raj&id=2
 
 
 
-
+ -->

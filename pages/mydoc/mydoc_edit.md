@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Update(Edit) Data from Database
 keywords: datatypes, datatype
 last_updated: March 29, 2020
@@ -88,4 +88,4 @@ while($res = mysqli_fetch_array($result))
 
 - First the database file is included once. 
 - Then we retrive the data from database and display in the form. 
-- Then the form value can be edited and updated.
+- Then the form value can be edited and updated. -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Adding Data Using Form.
 keywords: adding data
 last_updated: March 30, 2020
@@ -117,4 +117,4 @@ In the above code:
 
 - First the data from the foms are captured.
 - If the fields are not empty the data are inserted in database.
-- Then display screen is shown.
+- Then display screen is shown. -->

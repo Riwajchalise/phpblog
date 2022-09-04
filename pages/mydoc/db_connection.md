@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Database Connection
 keywords: Database, Database_Connection_In_PHP
 last_updated: March 3, 2020
@@ -37,4 +37,4 @@ echo "Connected successfully";
 
 {% include callout.html content="
 when you install XAMPP in your windows machine, the root password for the MySQL is set to empty. But this is not recommended, as the MySQL database without a password will be accessible to everyone. To avoid this, a proper/secure password must be set to the user root 
-" type="primary" %}
+" type="primary" %} -->

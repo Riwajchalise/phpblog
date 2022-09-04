@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Conditional Statement
 keywords: if, else, if_else, if_elseif
 last_updated: November 30, 2019
@@ -95,4 +95,4 @@ if ($t == "20") {
 ?>
 {% endhighlight %}
 
-[DEMO](https://paiza.io/projects/5iyG145eUr_PJHaQQRaiAw?language=php)
+[DEMO](https://paiza.io/projects/5iyG145eUr_PJHaQQRaiAw?language=php) -->

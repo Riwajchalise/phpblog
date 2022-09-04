@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Introdution to CSS  
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
@@ -108,4 +108,4 @@ h1 {
 If you want to know more about CSS you can check the [CSS_tutorial](https://www.w3schools.com/css/default.asp) by w3 school.
 " type="primary" %} 
 
-{% include links.html %}
+{% include links.html %} -->

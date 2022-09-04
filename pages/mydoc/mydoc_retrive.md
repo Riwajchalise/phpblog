@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Retrive Data From the Database
 keywords: retrive, CRUD
 last_updated: Mar 7, 2019
@@ -60,4 +60,4 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
 In above code:-
 - Data are fetched in decending order.
 - While loop is used to display the record until the last record.
-- The record is displayed in table format.
+- The record is displayed in table format. -->

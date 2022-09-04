@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Operators in PHP
 keywords: duummy.Dummy, Dummy text
 last_updated: December 27, 2019
@@ -38,4 +38,4 @@ Write a program to print all even numbers between 1 to 1000 using for loop.
 Using While loop, Write a program to print the multiplication table of 731.
 
 ### Question 5
-Writea program to demonstate an example of Do...While loop.
+Writea program to demonstate an example of Do...While loop. -->

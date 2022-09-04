@@ -1,4 +1,4 @@
----
+<!-- ---
 title: PHP Intro Questions
 keywords: questions
 last_updated: 
@@ -8,4 +8,4 @@ sidebar: mydoc_sidebar
 permalink: mydoc_intro_questions.html
 folder: mydoc
 ---
-
+ -->

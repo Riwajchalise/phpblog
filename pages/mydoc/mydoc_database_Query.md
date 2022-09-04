@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Database query
 keywords: database_query,database
 last_updated: December 16, 2019
@@ -65,4 +65,4 @@ DELETE FROM table_name WHERE condition;
 
 ```
 DELETE FROM Customers WHERE CustomerName='something';
-```
+``` -->

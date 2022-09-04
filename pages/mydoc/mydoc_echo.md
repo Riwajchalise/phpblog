@@ -1,4 +1,4 @@
----
+<!-- ---
 title: echo
 keywords: echo, php print
 last_updated: October 31, 2019
@@ -69,4 +69,4 @@ echo $str1 . " " . $str2;
 
 [DEMO](https://paiza.io/projects/o6956HIHri0AkhL9NGEpEA?language=php)
 
-{% include links.html %}
+{% include links.html %} -->

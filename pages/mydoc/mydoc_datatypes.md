@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Data Types
 keywords: datatypes, datatype
 last_updated: November 11, 2019
@@ -85,4 +85,4 @@ var_dump($company[2]);
 
 There are more datatypes. For more information on datatypes check out [w3school](https://www.w3schools.com/php/php_datatypes.asp).
 
-
+ -->
